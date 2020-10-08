@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Rambla:ital,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rambla:ital,wght@1,700&family=Sansita+Swashed:wght@300&display=swap');
+
+html,
+header {
+    clear: both;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 120%;
+}
+
+nav li {
+    display: inline;
+    color: black;
+    margin: 0 30px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav a {
+    color: black;
+    font-size: 30px;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Rambla';
+}
+
+nav a:hover {
+    color: white;
+}
+
+p {
+    font-family: 'Rambla';
+}
+
+footer {
+    text-align: center;
+}
+
+#wrap {
+    width: auto;
+    background-color: white;
+    margin: 0 auto;
+}
+
+body img {
+    width: 105%;
+    margin: -8px;
+}
+
+#blackback {
+    background-color: black;
+}
+
+footer {
+    color: white;
+}
+
+section {
+    display: flex;
+    overflow: auto;
+    text-align: center;
+}
+
+section p {
+    padding: 5px;
+}
+
+section h2 {
+    padding: 5px;
+}
+
+#lightblue {
+    background-color: lightblue;
+    margin: 5px;
+}
+
+#yellow {
+    background-color: yellow;
+    margin: 5px;
+}
+
+#lightgreen {
+    background-color: lightgreen;
+    margin: 5px;
+}
+
+#red {
+    background-color: red;
+    margin: 5px;
+}
+
+#orange {
+    background-color: orange;
+    margin: 5px;
+}
+
+#darkblue {
+    background-color: dodgerblue;
+}
+
+#darkgrey {
+    background-color: darkgrey;
+}
+
+#pink {
+    background-color: pink;
+}
