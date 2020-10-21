@@ -55,8 +55,8 @@ body img {
 }
 
 #blackback a:hover {
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: white;
 }
 
 footer {
