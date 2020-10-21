@@ -59,6 +59,10 @@ body img {
     color: black;
 }
 
+#blackback ul li {
+    color:white;
+}
+
 footer {
     color: white;
 }
