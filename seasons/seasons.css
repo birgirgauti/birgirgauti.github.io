@@ -9,6 +9,10 @@ header {
     font-size: 120%;
 }
 
+#blackback li {
+    color:white;
+}
+
 nav li {
     display: inline;
     color: black;
@@ -48,10 +52,6 @@ footer {
 body img {
     width: 105%;
     margin: -8px;
-}
-
-#blackback li {
-    color:white;
 }
 
 #blackback {
