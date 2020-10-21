@@ -61,6 +61,7 @@ body img {
 #blackback a:hover {
     background-color: white;
     color: black;
+    padding: 1px;
 }
 
 footer {
