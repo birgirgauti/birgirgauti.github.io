@@ -50,9 +50,12 @@ body img {
     margin: -8px;
 }
 
+#blackback li {
+    color:white;
+}
+
 #blackback {
     background-color: black;
-    color:white;
 }
 
 #blackback a:hover {
