@@ -52,7 +52,6 @@ body img {
 
 #blackback {
     background-color: black;
-    color: white;
 }
 
 #blackback a:hover {
@@ -113,4 +112,8 @@ section h2 {
 
 #pink {
     background-color: pink;
+}
+
+.whitetext {
+    color: white;   
 }
