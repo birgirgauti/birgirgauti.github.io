@@ -54,12 +54,7 @@ body img {
     background-color: black;
 }
 
-a #blackback {
-    background-color: black;
-    color: white;
-}
-
-nav #blackback a:hover {
+#blackback a:hover {
     background-color: white;
     color: black;
 }
