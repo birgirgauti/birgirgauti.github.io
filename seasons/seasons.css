@@ -52,15 +52,12 @@ body img {
 
 #blackback {
     background-color: black;
+    color: white;
 }
 
 #blackback a:hover {
     background-color: white;
     color: black;
-}
-
-#blackback li {
-    color: white;
 }
 
 footer {
