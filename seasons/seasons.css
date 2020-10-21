@@ -50,6 +50,10 @@ body img {
     margin: -8px;
 }
 
+#blackback li {
+    color:white;
+}
+
 #blackback {
     background-color: black;
 }
@@ -57,10 +61,6 @@ body img {
 #blackback a:hover {
     background-color: white;
     color: black;
-}
-
-nav li #blackback {
-    color:white;
 }
 
 footer {
