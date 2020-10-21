@@ -54,10 +54,6 @@ body img {
     background-color: black;
 }
 
-#blackback nav li {
-    color: white;
-}
-
 #blackback a:hover {
     background-color: white;
     color: black;
