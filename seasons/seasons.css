@@ -54,13 +54,13 @@ body img {
     background-color: black;
 }
 
+#blackback li {
+    color: white;
+}
+
 #blackback a:hover {
     background-color: white;
     color: black;
-}
-
-#blackback li {
-    color:red;
 }
 
 footer {
