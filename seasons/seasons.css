@@ -59,8 +59,8 @@ body img {
     color: black;
 }
 
-li#blackback  {
-    color:white;
+#blackback li {
+    color: white;
 }
 
 footer {
