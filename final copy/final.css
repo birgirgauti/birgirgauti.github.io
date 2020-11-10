@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+html,
+header {
+    background-color: #333333;
+    display: block;
+    margin: 0px 0px 10px 0px
+}
+
+header div a {
+    font-size: 25px;
+    font-family: 'Lato';
+    margin: 0 auto;
+    text-decoration: none;
+    color: white;
+    padding: 6px;
+}
+
+header nav a,
+li {
+    display: inline;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    font-family: 'Lato';
+    padding: 6px;
+}
+
+#wrap {
+    background-color: #333333;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.right {
+    float: right;
+}
+
+.container {
+    display: flex;
+}
+
+.footerflex {
+    width: 25%;
+}
+
+.footerflex p {
+    /*margin: 0px 5px 5px 0px;*/
+}
+
+.footerflex img {
+    width: 80%;
+    margin: 0px 5px 5px 0px;
+}
+
+#smaller img {
+    width: 15%;
+}
+
+footer {
+    color: white;
+    font-family: 'Lato';
+}
+
+.black {
+    background-color: black;
+    width: 100%;
+    padding: 20px 0px;
+    text-align: center;
+}
+
+.blacktext {
+    color: black;
+    padding: 20px 0px 0px 0px;
+}
+
+div h1 {
+    color: white;
+    font-family: 'Lato';
+}
+
+.white {
+    background-color: white;
+    width: 100%;
+    text-align: left;
+    padding: 0px 0px 0px 0px;
+}
+
+.white img {
+    width: 200px;
+    margin: 40px;
+    /*background-image: linear-gradient(to top, black, transparent);*/
+    transition: transform .5s ease;
+    /*
+    display: inline-block;
+    float: left;
+    margin: 0px;
+    padding: 0px;
+    */
+}
+
+.white img:hover {
+    transform: scale(1.2);
+}
+
+#imageOne {
+    background-image: url(sovetProd1.jpg);
+}
+
+.red:hover {
+    color: red;
+}
+
+.dropnav {
+    font-size: 25px;
+    font-family: 'Lato';
+    background-color: #333333;
+    margin: 0 auto;
+    text-decoration: none;
+    color: white;
+    padding: 0px 6px;
+}
+
+.dropnav:hover {
+    color: red;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: #f1f1f1;
+    min-width: 140px;
+    z-index: 100;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    font-family: 'Lato';
+    font-size: 15px;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+iframe {
+    text-align: center;
+    padding: 0px 0px 30px 0px;
+}
+
+#center {
+    text-align: center;
+    font-family: 'Lato';
+}
+
+.pin {
+    position: relative;
+    width: 200px;
+    margin: 40px;
+}
+
+.pin a {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
